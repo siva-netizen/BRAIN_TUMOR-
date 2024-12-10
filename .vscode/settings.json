@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5501,
+    "python.analysis.extraPaths": [
+        "./tensorflow-2.16.1/tensorflow/python"
+    ],
+    "cmake.sourceDirectory": "C:/Users/sivac/OneDrive/Desktop/brain tumor/tensorflow-2.16.1/tensorflow/lite/examples/label_image"
+}
