@@ -74,8 +74,3 @@ The training and validation loss/accuracy curves show:
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas.
-
-
----
-
-Let me know if you'd like to refine this further or add specific details about your deployment or additional metrics!
